@@ -42,6 +42,10 @@ export component AppWindow inherits Window {
 
 See ![CONTRIBUTING.md](CONTRIBUTING.md)
 
+# AI Usage
+
+This project has no AI usage.
+
 <p align="center">
 	<a href="https://github.com/iSophes/catppuccin-slint/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
 </p>
